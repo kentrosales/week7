@@ -1,3 +1,7 @@
+# Author: Kent Rovin Rosales
+# Course: Certificate in Information Technology
+# Date: April 2, 2026
+
 class Student():
 
     id_counter = 1000
